@@ -1,7 +1,7 @@
-github.com/yc-alpha/logger v1.0.0 h1:G4J/VjVEW81/AYq91G8cKFy2rKclUm8R2quw0mrBb1E=
-github.com/yc-alpha/logger v1.0.0/go.mod h1:7UIxghil6KuRLC3QDmgi5EXi+chyEhgVVjDmphqBbfc=
-github.com/yc-alpha/variant v1.0.0 h1:dbb0XEnMRHTpqSz/YQ0glyzN12IyNGChbVmvhZ+cgUU=
-github.com/yc-alpha/variant v1.0.0/go.mod h1:5yg09560cwJyL8rUmexVRCu2PhgPnRK1T6EBh0ZMaaI=
+github.com/yc-alpha/logger v1.0.2 h1:UcB9I2/halTYE3WXmYyEx5niUSq3L0FB7JR8cu7I2Cc=
+github.com/yc-alpha/logger v1.0.2/go.mod h1:fqAHr8MKI1Rrznhd6+FxEbDyLMxvPHZI4NkYxdAf6qo=
+github.com/yc-alpha/variant v1.0.2 h1:Xghivce+ZYqGMI8LVa4wdlGiaG9+ykAAt5iE5scbGCI=
+github.com/yc-alpha/variant v1.0.2/go.mod h1:5yg09560cwJyL8rUmexVRCu2PhgPnRK1T6EBh0ZMaaI=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
